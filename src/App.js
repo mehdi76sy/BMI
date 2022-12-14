@@ -127,7 +127,7 @@ function BMICalculator() {
                         <label
                           className="p-[20px] w-[300px] md:w-[450px] flex flex-row items-center justify-between"
                         >
-                          {toggle ? "Height (in Meters)": "Height (in Inches)"}
+                          {toggle ? "Height (in Centimeters)": "Height (in Inches)"}
 
                           <input
                             className="bg-[#333333] w-[80px] h-[30px] md:w-[120px] md:h-[40px] px-2 rounded-md border border-[#111111]"
